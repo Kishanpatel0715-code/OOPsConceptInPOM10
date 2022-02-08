@@ -1,0 +1,3 @@
+com\crm\tests\BaseTest.class
+com\crm\tests\HomePageTest.class
+com\crm\tests\LoginPageTest.class

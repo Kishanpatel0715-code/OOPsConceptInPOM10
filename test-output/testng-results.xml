@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="17181" started-at="2022-02-01T05:53:24Z" finished-at="2022-02-01T05:53:41Z">
+  <suite name="Test Suite" duration-ms="11663" started-at="2022-02-01T20:05:20Z" finished-at="2022-02-01T20:05:32Z">
     <groups>
     </groups>
-    <test name="my crm test chrome" duration-ms="17181" started-at="2022-02-01T05:53:24Z" finished-at="2022-02-01T05:53:41Z">
+    <test name="my crm test chrome" duration-ms="11663" started-at="2022-02-01T20:05:20Z" finished-at="2022-02-01T20:05:32Z">
       <class name="com.crm.tests.HomePageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="setUp" is-config="true" duration-ms="4062" started-at="2022-02-01T05:53:24Z" finished-at="2022-02-01T05:53:28Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="setUp" is-config="true" duration-ms="2799" started-at="2022-02-01T20:05:20Z" finished-at="2022-02-01T20:05:23Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHomePageLogoTest()[pri:1, instance:com.crm.tests.HomePageTest@402a079c]" name="verifyHomePageLogoTest" duration-ms="3913" started-at="2022-02-01T05:53:28Z" finished-at="2022-02-01T05:53:32Z">
+        <test-method status="PASS" signature="verifyHomePageLogoTest()[pri:1, instance:com.crm.tests.HomePageTest@402a079c]" name="verifyHomePageLogoTest" duration-ms="2579" started-at="2022-02-01T20:05:23Z" finished-at="2022-02-01T20:05:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="tearDown" is-config="true" duration-ms="752" started-at="2022-02-01T05:53:32Z" finished-at="2022-02-01T05:53:33Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="tearDown" is-config="true" duration-ms="682" started-at="2022-02-01T20:05:26Z" finished-at="2022-02-01T20:05:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="setUp" is-config="true" duration-ms="3155" started-at="2022-02-01T05:53:33Z" finished-at="2022-02-01T05:53:36Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="setUp" is-config="true" duration-ms="2263" started-at="2022-02-01T20:05:26Z" finished-at="2022-02-01T20:05:28Z">
           <params>
             <param index="0">
               <value>
@@ -37,17 +37,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="HomeLinkPresentTest()[pri:2, instance:com.crm.tests.HomePageTest@402a079c]" name="HomeLinkPresentTest" duration-ms="4484" started-at="2022-02-01T05:53:36Z" finished-at="2022-02-01T05:53:40Z">
+        <test-method status="PASS" signature="HomeLinkPresentTest()[pri:2, instance:com.crm.tests.HomePageTest@402a079c]" name="HomeLinkPresentTest" duration-ms="2652" started-at="2022-02-01T20:05:28Z" finished-at="2022-02-01T20:05:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomeLinkPresentTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="tearDown" is-config="true" duration-ms="772" started-at="2022-02-01T05:53:40Z" finished-at="2022-02-01T05:53:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.HomePageTest@402a079c]" name="tearDown" is-config="true" duration-ms="665" started-at="2022-02-01T20:05:31Z" finished-at="2022-02-01T20:05:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.crm.tests.HomePageTest -->
       <class name="com.crm.tests.LoginPageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="setUp" is-config="true" duration-ms="4328" started-at="2022-02-01T05:53:24Z" finished-at="2022-02-01T05:53:28Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="setUp" is-config="true" duration-ms="2989" started-at="2022-02-01T20:05:20Z" finished-at="2022-02-01T20:05:23Z">
           <params>
             <param index="0">
               <value>
@@ -58,15 +58,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="getLoginPageTitleTest()[pri:1, instance:com.crm.tests.LoginPageTest@6500df86]" name="getLoginPageTitleTest" duration-ms="76" started-at="2022-02-01T05:53:28Z" finished-at="2022-02-01T05:53:28Z">
+        <test-method status="PASS" signature="getLoginPageTitleTest()[pri:1, instance:com.crm.tests.LoginPageTest@6500df86]" name="getLoginPageTitleTest" duration-ms="18" started-at="2022-02-01T20:05:23Z" finished-at="2022-02-01T20:05:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="tearDown" is-config="true" duration-ms="845" started-at="2022-02-01T05:53:28Z" finished-at="2022-02-01T05:53:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="tearDown" is-config="true" duration-ms="702" started-at="2022-02-01T20:05:23Z" finished-at="2022-02-01T20:05:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="setUp" is-config="true" duration-ms="2942" started-at="2022-02-01T05:53:33Z" finished-at="2022-02-01T05:53:36Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="setUp" is-config="true" duration-ms="1955" started-at="2022-02-01T20:05:26Z" finished-at="2022-02-01T20:05:28Z">
           <params>
             <param index="0">
               <value>
@@ -77,11 +77,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="doLoginTest()[pri:2, instance:com.crm.tests.LoginPageTest@6500df86]" name="doLoginTest" duration-ms="3701" started-at="2022-02-01T05:53:36Z" finished-at="2022-02-01T05:53:39Z">
+        <test-method status="PASS" signature="doLoginTest()[pri:2, instance:com.crm.tests.LoginPageTest@6500df86]" name="doLoginTest" duration-ms="2569" started-at="2022-02-01T20:05:28Z" finished-at="2022-02-01T20:05:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="tearDown" is-config="true" duration-ms="869" started-at="2022-02-01T05:53:39Z" finished-at="2022-02-01T05:53:40Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.LoginPageTest@6500df86]" name="tearDown" is-config="true" duration-ms="761" started-at="2022-02-01T20:05:31Z" finished-at="2022-02-01T20:05:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
